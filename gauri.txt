@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 125E-C986
+
+ Directory of C:\Users\CSE\Desktop\Demo
+
+06/08/2018  06:47 PM    <DIR>          .
+06/08/2018  06:47 PM    <DIR>          ..
+06/08/2018  06:47 PM                 0 gauri.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  13,537,845,248 bytes free
